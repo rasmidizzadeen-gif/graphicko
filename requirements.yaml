@@ -1,0 +1,31 @@
+packages:
+  "framer-motion": "For premium smooth page transitions and scroll-triggered animations"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to safely merge tailwind classes"
+
+images:
+  - path: "artifacts/graphicko/public/images/hero-abstract.png"
+    description: "Dark, premium 3D abstract geometric shapes floating with subtle electric blue neon edge lighting, completely black background, high end tech and design agency vibe"
+    aspect_ratio: "16:9"
+  - path: "artifacts/graphicko/public/images/port-branding.png"
+    description: "Premium brand identity mockup on dark grey slate background, featuring business cards and letterhead with minimalist electric blue accents"
+    aspect_ratio: "4:3"
+  - path: "artifacts/graphicko/public/images/port-social.png"
+    description: "Sleek dark mode social media campaign mockup on smartphone screens floating in a void"
+    aspect_ratio: "4:3"
+  - path: "artifacts/graphicko/public/images/port-web.png"
+    description: "Dark mode modern website dashboard mockup displayed on a sleek laptop screen"
+    aspect_ratio: "4:3"
+  - path: "artifacts/graphicko/public/images/case-nova.png"
+    description: "Dark moody product photography of a premium coffee bag with sleek minimalist branding"
+    aspect_ratio: "16:9"
+  - path: "artifacts/graphicko/public/images/case-pureglow.png"
+    description: "High end dark aesthetic skincare bottle mockup with glowing electric blue liquid accents"
+    aspect_ratio: "16:9"
+  - path: "artifacts/graphicko/public/images/case-techvault.png"
+    description: "Abstract cyber security tech visualization with glowing blue nodes on black background"
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a static frontend-only site showcasing a creative agency. No backend API calls are required.
+  - All form submissions should be simulated with local state/timeouts.
